@@ -2,6 +2,9 @@
 
 ## [**DINE: Domain Adaptation from Single and Multiple Black-box Predictors**](https://arxiv.org/abs/2104.01539)
 
+
+zhaoxin: fork and modify this project for my learning goal
+
 ### Problem setting (Black-box UDA):  
 
 <img src="figs/problem.png" width="500" div align=center/>
